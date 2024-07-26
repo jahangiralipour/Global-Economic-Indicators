@@ -38,10 +38,17 @@ Metadata: Use this page to explore metadata about the data used in this report.
 
 # Key Measures and Calculations
 GDP Annual Growth Rate: Calculated as the year-over-year percentage change in GDP.
+
 GDP per Capita: Calculated as the GDP of a country divided by its population.
 
 
 # How to Use
 Download the Power BI report file (worldbank.pbix) from this repository.
+
 Open the file in Power BI Desktop.
+
 Interact with the dashboard to explore the data. Use the drill-through functionality to get detailed information about specific countries.
+
+# Contact
+
+For any questions or feedback, please contact [alipourjahangir@gmail.com] or create an issue in this repository.
