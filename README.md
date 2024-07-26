@@ -28,11 +28,11 @@ Overview: The main dashboard provides a global overview of key economic indicato
 
 Country Details: A drill-through page allows users to select a specific country and view detailed economic data for that country.
 
-![Dashboard Screenshot 1](https://github.com/jahangiralipour/Global-Economic-Indicators/blob/main/images/Drill%20through%20worldbank.jpg)
+![Dashboard Screenshot 2](https://github.com/jahangiralipour/Global-Economic-Indicators/blob/main/images/Drill%20through%20worldbank.jpg)
 
 Metadata: Use this page to explore metadata about the data used in this report.
 
-![Dashboard Screenshot 1] (https://github.com/jahangiralipour/Global-Economic-Indicators/blob/main/images/metadata%20worldbank.jpg)
+![Dashboard Screenshot 3](https://github.com/jahangiralipour/Global-Economic-Indicators/blob/main/images/metadata%20worldbank.jpg)
 
 
 
