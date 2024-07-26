@@ -23,13 +23,17 @@ Calculations and Measures: Using DAX (Data Analysis Expressions), necessary meas
 
 # Features
 Overview: The main dashboard provides a global overview of key economic indicators.
+
 ![Dashboard Screenshot 1](https://github.com/jahangiralipour/Global-Economic-Indicators/blob/main/images/overview%20worldbank.jpg)
 
 Country Details: A drill-through page allows users to select a specific country and view detailed economic data for that country.
-https://github.com/jahangiralipour/Global-Economic-Indicators/blob/main/images/Drill%20through%20worldbank.jpg
+
+![Dashboard Screenshot 1](https://github.com/jahangiralipour/Global-Economic-Indicators/blob/main/images/Drill%20through%20worldbank.jpg)
 
 Metadata: Use this page to explore metadata about the data used in this report.
-https://github.com/jahangiralipour/Global-Economic-Indicators/blob/main/images/metadata%20worldbank.jpg
+
+![Dashboard Screenshot 1] (https://github.com/jahangiralipour/Global-Economic-Indicators/blob/main/images/metadata%20worldbank.jpg)
+
 
 
 # Key Measures and Calculations
