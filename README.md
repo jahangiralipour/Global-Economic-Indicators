@@ -1,5 +1,5 @@
 # Global-Economic-Indicators
-This repository contains a Power BI report that analyzes global economic indicators using yearly data from the World Bank. The report leverages data on population and economic output of various countries worldwide, providing insights through interactive visualizations and detailed analysis.
+This repository contains a Power BI report that analyzes global economic indicators using yearly data from the World Bank. The report leverages data on the population and economic output of various countries worldwide, providing insights through interactive visualizations and detailed analysis.
 
 # Data Sources
 API Source: World Bank API
@@ -23,20 +23,21 @@ Calculations and Measures: Using DAX (Data Analysis Expressions), necessary meas
 
 # Features
 Overview: The main dashboard provides a global overview of key economic indicators.
+https://github.com/jahangiralipour/Global-Economic-Indicators/blob/main/images/overview%20worldbank.jpg
 
 Country Details: A drill-through page allows users to select a specific country and view detailed economic data for that country.
+https://github.com/jahangiralipour/Global-Economic-Indicators/blob/main/images/Drill%20through%20worldbank.jpg
+
 Metadata: Use this page to explore metadata about the data used in this report.
+https://github.com/jahangiralipour/Global-Economic-Indicators/blob/main/images/metadata%20worldbank.jpg
 
 
-Key Measures and Calculations
+# Key Measures and Calculations
 GDP Annual Growth Rate: Calculated as the year-over-year percentage change in GDP.
 GDP per Capita: Calculated as the GDP of a country divided by its population.
-Screenshots
-Main Dashboard
 
-Country-Specific Drill-Through Page
 
-How to Use
+# How to Use
 Download the Power BI report file (worldbank.pbix) from this repository.
 Open the file in Power BI Desktop.
 Interact with the dashboard to explore the data. Use the drill-through functionality to get detailed information about specific countries.
